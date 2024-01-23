@@ -1,0 +1,14 @@
+/Users/johnneville/Projects/gradebook/src/GradeBook/obj/Debug/net8.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnneville/Projects/gradebook/src/GradeBook/obj/Debug/net8.0/GradeBook.AssemblyInfoInputs.cache
+/Users/johnneville/Projects/gradebook/src/GradeBook/obj/Debug/net8.0/GradeBook.AssemblyInfo.cs
+/Users/johnneville/Projects/gradebook/src/GradeBook/obj/Debug/net8.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/johnneville/Projects/gradebook/src/GradeBook/bin/Debug/net8.0/GradeBook
+/Users/johnneville/Projects/gradebook/src/Gradebook/bin/Debug/net8.0/GradeBook.deps.json
+/Users/johnneville/Projects/gradebook/src/Gradebook/bin/Debug/net8.0/GradeBook.runtimeconfig.json
+/Users/johnneville/Projects/gradebook/src/GradeBook/bin/Debug/net8.0/GradeBook.dll
+/Users/johnneville/Projects/gradebook/src/GradeBook/bin/Debug/net8.0/GradeBook.pdb
+/Users/johnneville/Projects/gradebook/src/GradeBook/obj/Debug/net8.0/GradeBook.dll
+/Users/johnneville/Projects/gradebook/src/GradeBook/obj/Debug/net8.0/refint/GradeBook.dll
+/Users/johnneville/Projects/gradebook/src/GradeBook/obj/Debug/net8.0/GradeBook.pdb
+/Users/johnneville/Projects/gradebook/src/Gradebook/obj/Debug/net8.0/GradeBook.genruntimeconfig.cache
+/Users/johnneville/Projects/gradebook/src/Gradebook/obj/Debug/net8.0/ref/GradeBook.dll
