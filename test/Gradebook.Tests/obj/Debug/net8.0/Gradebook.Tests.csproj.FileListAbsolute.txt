@@ -102,3 +102,4 @@
 /Users/johnneville/Projects/gradebook/test/Gradebook.Tests/bin/Debug/net8.0/GradeBook
 /Users/johnneville/Projects/gradebook/test/Gradebook.Tests/bin/Debug/net8.0/GradeBook.dll
 /Users/johnneville/Projects/gradebook/test/Gradebook.Tests/bin/Debug/net8.0/GradeBook.pdb
+/Users/johnneville/Projects/gradebook/test/Gradebook.Tests/obj/Debug/net8.0/Gradebook.Tests.sourcelink.json

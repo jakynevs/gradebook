@@ -12,3 +12,4 @@
 /Users/johnneville/Projects/gradebook/src/GradeBook/obj/Debug/net8.0/GradeBook.pdb
 /Users/johnneville/Projects/gradebook/src/Gradebook/obj/Debug/net8.0/GradeBook.genruntimeconfig.cache
 /Users/johnneville/Projects/gradebook/src/Gradebook/obj/Debug/net8.0/ref/GradeBook.dll
+/Users/johnneville/Projects/gradebook/src/GradeBook/obj/Debug/net8.0/GradeBook.sourcelink.json
